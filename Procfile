@@ -1,1 +1,1 @@
-python bot_downloader.py
+web: python bot_downloader.py
